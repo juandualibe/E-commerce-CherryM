@@ -1,0 +1,525 @@
+[
+    {
+        "id": "alimento-01",
+        "titulo": "Excelent Adult 7,5kg",
+        "imagen": "./img/alimentos-gatos/producto-1.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 22725
+    },
+    {
+        "id": "alimento-02",
+        "titulo": "Excelent Adult 3kg",
+        "imagen": "./img/alimentos-gatos/producto-2.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 10944
+    },
+    {
+        "id": "alimento-03",
+        "titulo": "Excelent Urinary 7,5kg",
+        "imagen": "./img/alimentos-gatos/producto-3.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 26190
+    },
+    {
+        "id": "alimento-04",
+        "titulo": "Agility Adulto 10 KG",
+        "imagen": "./img/alimentos-gatos/producto-4.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 18018
+    },
+    {
+        "id": "alimento-05",
+        "titulo": "Balanced Gatos Castrados 7.5 KG",
+        "imagen": "./img/alimentos-gatos/producto-5.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 23652
+    },
+    {
+        "id": "alimento-06",
+        "titulo": "EXCELLENT ADULT GATO ADULTO 15 KG.",
+        "imagen": "./img/alimentos-gatos/producto-6.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 43155
+    },
+    {
+        "id": "alimento-07",
+        "titulo": "EXCELLENT KITTEN CACHORRO 1 KG.",
+        "imagen": "./img/alimentos-gatos/producto-7.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 4437
+    },
+    {
+        "id": "alimento-08",
+        "titulo": "COMPLETE GATO ADULTO 15 KG",
+        "imagen": "./img/alimentos-gatos/producto-8.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 22815
+    },
+    {
+        "id": "alimento-09",
+        "titulo": "GATI PESCADO ARROZ Y ESPINACA X 15 KG",
+        "imagen": "./img/alimentos-gatos/producto-9.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 15318
+    },
+    {
+        "id": "alimento-10",
+        "titulo": "EXCELLENT KITTEN GATO CACHORRO 7.5 KG",
+        "imagen": "./img/alimentos-gatos/producto-10.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 25155
+    },
+    {
+        "id": "alimento-11",
+        "titulo": "CAT CHOW ADULTOS CARNE 15 KG",
+        "imagen": "./img/alimentos-gatos/producto-11.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 27180
+    },
+    {
+        "id": "alimento-12",
+        "titulo": "CAT CHOW ADULTOS SABOR PESCADO 15 KG",
+        "imagen": "./img/alimentos-gatos/producto-12.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 27180
+    },
+    {
+        "id": "alimento-13",
+        "titulo": "PERFORMANCE GATO CACHORRO 1.5 KG.",
+        "imagen": "./img/alimentos-gatos/producto-13.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 7.155
+    },
+    {
+        "id": "alimento-14",
+        "titulo": "PRO PLAN ADULT GATO ADULTO 7.5 KG.",
+        "imagen": "./img/alimentos-gatos/producto-14.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 34461
+    },
+    {
+        "id": "alimento-15",
+        "titulo": "WHISKAS PESCADO X 10 KG.",
+        "imagen": "./img/alimentos-gatos/producto-15.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 18837
+    },
+    {
+        "id": "alimento-16",
+        "titulo": "CAT CHOW GATITO 8 KG.",
+        "imagen": "./img/alimentos-gatos/producto-16.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 17010
+    },
+    {
+        "id": "alimento-17",
+        "titulo": "CAT CHOW ADULTO PESCADO 1 KG.",
+        "imagen": "./img/alimentos-gatos/producto-17.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 2520
+    },
+    {
+        "id": "alimento-18",
+        "titulo": "COMPLETE GATO ADULTO 24 KG SAFETY PACKS.",
+        "imagen": "./img/alimentos-gatos/producto-18.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 36679
+    },
+    {
+        "id": "alimento-19",
+        "titulo": "PREMIUM GATO ADULTO 15 KG.",
+        "imagen": "./img/alimentos-gatos/producto-19.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 31842
+    },
+    {
+        "id": "alimento-20",
+        "titulo": "SIEGER KATZE URINARY 7.5 KG",
+        "imagen": "./img/alimentos-gatos/producto-20.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 20898
+    },
+    {
+        "id": "alimento-21",
+        "titulo": "SIEGER KATZE LIGHT 7.5 KG",
+        "imagen": "./img/alimentos-gatos/producto-21.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 20898
+    },
+    {
+        "id": "alimento-22",
+        "titulo": "PREMIUM GATO ADULTO 2 KG.",
+        "imagen": "./img/alimentos-gatos/producto-22.webp",
+        "categoria": {
+            "nombre": "Alimento Felinos",
+            "id": "alimento-felinos"
+        },
+        "precio": 5274
+    },
+    {
+        "id": "alimento-01",
+        "titulo": "ROYAL CANIN CANICHE POODLE JUNIOR 3 KG.",
+        "imagen": "img/alimentos-perros/producto-1.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 15282
+    },
+    {
+        "id": "alimento-02",
+        "titulo": "ROYAL CANIN CANICHE POODLE ADULT 3 KG.",
+        "imagen": "./img/alimentos-perros/producto-2.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 14058
+    },
+    {
+        "id": "alimento-03",
+        "titulo": "ROYAL CANIN MAXI ADULT 5+ 15 KG.",
+        "imagen": "./img/alimentos-perros/producto-3.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 44451
+    },
+    {
+        "id": "alimento-04",
+        "titulo": "ROYAL CANIN MAXI WEIGHT CARE 10 KG.",
+        "imagen": "./img/alimentos-perros/producto-4.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 31248
+    },
+    {
+        "id": "alimento-05",
+        "titulo": "ROYAL CANIN MEDIUM ADULT 3 KG.",
+        "imagen": "./img/alimentos-perros/producto-5.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 11727
+    },
+    {
+        "id": "alimento-06",
+        "titulo": "ROYAL CANIN MEDIUM DERMACOMFORT 3 KG.",
+        "imagen": "./img/alimentos-perros/producto-6.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 13545
+    },
+    {
+        "id": "alimento-07",
+        "titulo": "ROYAL CANIN MINI ADULT 1 KG.",
+        "imagen": "./img/alimentos-perros/producto-7.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "alimento-08",
+        "titulo": "ROYAL CANIN MINI ADULT 3 KG.",
+        "imagen": "./img/alimentos-perros/producto-8.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 10710
+    },
+    {
+        "id": "alimento-09",
+        "titulo": "ROYAL CANIN MINI ADULT 7.5 KG",
+        "imagen": "./img/alimentos-perros/producto-9.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 21960
+    },
+    {
+        "id": "alimento-10",
+        "titulo": "ROYAL CANIN MINI DERMACOMFORT 1 KG.",
+        "imagen": "./img/alimentos-perros/producto-10.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 5112
+    },
+    {
+        "id": "alimento-11",
+        "titulo": "ROYAL CANIN MINI DERMACOMFORT 3 KG.",
+        "imagen": "./img/alimentos-perros/producto-11.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 13896
+    },
+    {
+        "id": "alimento-12",
+        "titulo": "ROYAL CANIN GIANT ADULT 15 KG.",
+        "imagen": "./img/alimentos-perros/producto-12.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 34335
+    },
+    {
+        "id": "alimento-13",
+        "titulo": "ROYAL CANIN GIANT PUPPY 15 KG.",
+        "imagen": "./img/alimentos-perros/producto-13.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 38079
+    },
+    {
+        "id": "alimento-14",
+        "titulo": "PRO PLAN DOG PUPPY SMALL BREED X 1 KG.",
+        "imagen": "./img/alimentos-perros/producto-14.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 4734
+    },
+    {
+        "id": "alimento-15",
+        "titulo": "EXCELLENT PERRO CACHORRO RAZA PEQUEÑA 3 KG.",
+        "imagen": "./img/alimentos-perros/producto-15.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 7344
+    },
+    {
+        "id": "alimento-16",
+        "titulo": "EXCELLENT PERRO CACHORRO RAZA PEQUEÑA 15 KG.",
+        "imagen": "./img/alimentos-perros/producto-16.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 28314
+    },
+    {
+        "id": "alimento-17",
+        "titulo": "ROYAL CANIN SCHNAUZER MINIATURE ADULT 3 KG.",
+        "imagen": "./img/alimentos-perros/producto-17.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 14868
+    },
+    {
+        "id": "alimento-18",
+        "titulo": "Sieger Criadores All In One x20KG",
+        "imagen": "./img/alimentos-perros/producto-18.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 28305
+    },
+    {
+        "id": "alimento-19",
+        "titulo": "UNIK PERRO CACHORRO RAZA PEQUEÑA 7.5 KG.",
+        "imagen": "./img/alimentos-perros/producto-19.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 19700
+    },
+    {
+        "id": "alimento-20",
+        "titulo": "UNIK PERRO ADULTO RAZA MEDIANA Y GRANDE 15 KG.",
+        "imagen": "./img/alimentos-perros/producto-20.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 28360.01
+    },
+    {
+        "id": "alimento-21",
+        "titulo": "UNIK PERRO ADULTO RAZA PEQUEÑA 7.5 KG.",
+        "imagen": "./img/alimentos-perros/producto-21.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 18400.01
+    },
+    {   
+        "id": "alimento-22",
+        "titulo": "SIEGER PERRO CACHORRO MORDIDA PEQUEÑA 12 KG.",
+        "imagen": "./img/alimentos-perros/producto-22.webp",
+        "categoria": {
+        "nombre": "Alimento Caninos",
+        "id": "alimento-caninos"
+        },
+       "precio": 24363
+    },
+    {   
+        "id": "higiene-01",
+        "titulo": "GATOLIMP PIEDRAS SANITARIAS 10 KG",
+        "imagen": "./img/higiene/producto-1.webp",
+        "categoria": {
+        "nombre": "Higiene",
+        "id": "higiene"
+        },
+       "precio": 3900
+    },
+    {   
+        "id": "higiene-02",
+        "titulo": "Piedra de Bentonita Limpcat x4KG",
+        "imagen": "./img/higiene/producto-2.webp",
+        "categoria": {
+        "nombre": "Higiene",
+        "id": "higiene"
+        },
+       "precio": 1755
+    },
+    {   
+        "id": "higiene-03",
+        "titulo": "PIEDRAS SANITARIAS BIODEGRADABLES EN PELLETS POOPY PETS X 5 KG",
+        "imagen": "./img/higiene/producto-3.webp",
+        "categoria": {
+        "nombre": "Higiene",
+        "id": "higiene"
+        },
+       "precio": 1601.10
+    },
+    {   
+        "id": "higiene-04",
+        "titulo": "GATIN PIEDRAS SANITARIAS PERFUMADAS 2 KG",
+        "imagen": "./img/higiene/producto-4.webp",
+        "categoria": {
+        "nombre": "Higiene",
+        "id": "higiene"
+        },
+       "precio": 1450
+    },
+    {   
+        "id": "higiene-05",
+        "titulo": "PAÑO PET MINI 5 UNIDADES",
+        "imagen": "./img/higiene/producto-5.webp",
+        "categoria": {
+        "nombre": "Higiene",
+        "id": "higiene"
+        },
+       "precio": 3150
+    },
+    {   
+        "id": "higiene-06",
+        "titulo": "PAÑO PET MAX 10 UNIDADES",
+        "imagen": "./img/higiene/producto-6.webp",
+        "categoria": {
+        "nombre": "Higiene",
+        "id": "higiene"
+        },
+       "precio": 8540
+    },
+    {   
+        "id": "higiene-07",
+        "titulo": "ESPUMA SECA PARA BAÑO",
+        "imagen": "./img/higiene/producto-7.webp",
+        "categoria": {
+        "nombre": "Higiene",
+        "id": "higiene"
+        },
+       "precio": 4660
+    },
+    {   
+        "id": "higiene-08",
+        "titulo": "SACA NUDOS CHICO PARA MASCOTAS COD. 13329",
+        "imagen": "./img/higiene/producto-8.webp",
+        "categoria": {
+        "nombre": "Higiene",
+        "id": "higiene"
+        },
+       "precio": 4640
+    }    
+
+
+]
+
